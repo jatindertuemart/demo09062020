@@ -24,7 +24,7 @@ $("#dataid").val(id);
 $('#myModal').modal('show');
 }
 
-
+*/
 
 
 
